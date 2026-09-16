@@ -32,23 +32,8 @@ File sử dụng:
 
 train.csv
 
-## 5. Cấu trúc project
 
-HousePricePrediction/
-
-├── data/
-
-│   └── train.csv
-
-├── src/
-
-│   └── linear_regression.py
-
-├── README.md
-
-└── requirements.txt
-
-## 6. Cài đặt
+## 5. Cài đặt
 
 Cài đặt các thư viện:
 
